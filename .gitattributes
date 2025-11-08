@@ -1,5 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
 /01_Compliance_Frameworks
    ├── ISO_37301_Compliance_Notes.md
    ├── ISO_27001_Summary.md
