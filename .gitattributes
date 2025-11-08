@@ -1,2 +1,29 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+/01_Compliance_Frameworks
+   ├── ISO_37301_Compliance_Notes.md
+   ├── ISO_27001_Summary.md
+   ├── GDPR_Principles_Checklist.md
+   ├── Data_Protection_Policy_Template.md
+
+/02_Contract_Lifecycle
+   ├── Contract_Lifecycle_Overview.md
+   ├── Contract_Drafting_Basics.md
+   ├── Negotiation_Guide.md
+   ├── Contract_Renewal_Tracker.xlsx
+
+/03_Legal_Documents
+   ├── NDA_Template.md
+   ├── SLA_Template.md
+   ├── MOU_Template.md
+   ├── Vendor_Agreement_Template.md
+
+/04_Case_Studies
+   ├── GDPR_Fine_Meta_Case.md
+   ├── ISO_Compliance_Audit_Case.md
+   ├── Contract_Dispute_Example.md
+
+/05_Tools_and_Resources
+   ├── Recommended_Courses.md
+   ├── Compliance_Software_List.md
+   ├── Drafting_Apps_Tools.md
