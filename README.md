@@ -44,7 +44,7 @@ Includes notes, checklists, and sample frameworks.
 📂 Folder: `/03_Legal_Documents`
 
 Includes my practice drafts of:
-- `NDA_Template.md`
+- `NDA_Template.md` (03_Legal_Documents/NDA_Template.md)
 - `SLA_Template.md`
 - `MOU_Template.md`
 - `Vendor_Agreement_Template.md`
