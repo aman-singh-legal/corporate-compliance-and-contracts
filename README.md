@@ -11,6 +11,7 @@ This repository showcases my learning journey, templates, and analyses in **GDPR
 3. [Legal Documents and Templates](#legal-documents-and-templates)
 4. [Case Studies](#case-studies)
 5. [Tools & Resources](#tools--resources)
+6. [ISO Templates](ISO-templates)
 
 ---
 # 🧠 Corporate Compliance and Contracts Repository
