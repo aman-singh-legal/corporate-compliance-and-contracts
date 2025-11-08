@@ -13,6 +13,37 @@ This repository showcases my learning journey, templates, and analyses in **GDPR
 5. [Tools & Resources](#tools--resources)
 
 ---
+# 🧠 Corporate Compliance and Contracts Repository
+
+A structured learning and project collection on **Corporate Compliance Frameworks**, **GDPR**, and **Contract Lifecycle Management**.
+
+---
+
+## 📘 Table of Contents
+
+### 🏛️ Compliance Frameworks
+- [GDPR Principles Checklist](01_Compliance_Frameworks/GDPR_Principles_Checklist.md)
+
+### ⚖️ Contract Lifecycle & Legal Templates
+- [Non-Disclosure Agreement (NDA)](03_Legal_Documents/NDA_Template.md)
+- [Service Level Agreement (SLA)](03_Legal_Documents/SLA_Template.md)
+- [Memorandum of Understanding (MoU)](03_Legal_Documents/MOU_Template.md)
+
+---
+
+## 📂 Folder Overview
+
+| Folder | Description |
+|---------|--------------|
+| `01_Compliance_Frameworks` | Notes and checklists on GDPR, ISO, and data protection. |
+| `02_Contract_Lifecycle` | Guides and trackers for contract drafting and negotiation. |
+| `03_Legal_Documents` | Practice templates (NDA, SLA, MoU, Vendor Agreements). |
+| `04_Case_Studies` | Summaries of real-world compliance and contract cases. |
+| `05_Tools_and_Resources` | Learning resources and software tools. |
+
+---
+
+> 📄 *Note:* All documents are for **educational and learning purposes only**.
 
 ## 🏛️ Compliance Frameworks
 
@@ -44,7 +75,7 @@ Includes notes, checklists, and sample frameworks.
 📂 Folder: `/03_Legal_Documents`
 
 Includes my practice drafts of:
-- `NDA_Template.md` (03_Legal_Documents/NDA_Template.md)
+- `NDA_Template.md`
 - `SLA_Template.md`
 - `MOU_Template.md`
 - `Vendor_Agreement_Template.md`
