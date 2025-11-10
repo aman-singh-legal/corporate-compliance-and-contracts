@@ -8,7 +8,7 @@ This repository showcases my learning journey, templates, and analyses in **GDPR
 ## 📘 Table of Contents
 1. [Compliance Frameworks](01_Compliance_Frameworks)
 2. [Contract Lifecycle Management](contract-templates1.md)
-3. [Legal Documents and Templates](#legal-documents-and-templates)
+3. [Legal Documents and Templates](03_Legal_Documents)
 4. [Case Studies](#case-studies)
 5. [Tools & Resources](#tools--resources)
 6. [ISO Templates](ISO-templates)
