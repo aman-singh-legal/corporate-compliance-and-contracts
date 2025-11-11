@@ -19,13 +19,8 @@ This repository showcases my learning journey, templates, and analyses in **GDPR
 A structured learning and project collection on **Corporate Compliance Frameworks**, **GDPR**, and **Contract Lifecycle Management**.
 
 ---
-
-## 📘 Table of Contents
-
-### 🏛️ Compliance Frameworks
----
-
-## 🔐 GDPR & Data Privacy Compliance Frameworks
+## 🏛️ Compliance Frameworks
+### 🔐 GDPR & Data Privacy Compliance Frameworks
 
 This section provides exhaustive, article-mapped checklists and documentation for EU **General Data Protection Regulation (GDPR)** compliance and related privacy operations.
 
@@ -35,7 +30,9 @@ This section provides exhaustive, article-mapped checklists and documentation fo
 | 🧾 **Data Protection Officer Role & Duties** | *(Coming Soon)* | Practical breakdown of Art. 37–39 DPO requirements, independence safeguards, and reporting lines. |
 | 📦 **Data Breach Response Framework** | *(Planned)* | Steps, templates, and sample notifications for Art. 33–34 compliance. |
 
+
 - [GDPR Principles Checklist](01_Compliance_Frameworks/GDPR_Principles_Checklist.md)
+
 > 🧠 *This repository section is designed for GRC, Compliance, and Data Protection professionals building policy and audit-ready documentation frameworks.*
 
 ### ⚖️ Contract Lifecycle & Legal Templates
