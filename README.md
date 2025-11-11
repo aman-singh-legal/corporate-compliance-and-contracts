@@ -12,12 +12,7 @@ This repository showcases my learning journey, templates, and analyses in **GDPR
 4. [Case Studies](#case-studies)
 5. [Tools & Resources](#tools--resources)
 6. [ISO Templates](ISO-templates)
-
----
-# 🧠 Corporate Compliance and Contracts Repository
-
-A structured learning and project collection on **Corporate Compliance Frameworks**, **GDPR**, and **Contract Lifecycle Management**.
-
+   
 ---
 ## 🏛️ Compliance Frameworks
 ### 🔐 GDPR & Data Privacy Compliance Frameworks
