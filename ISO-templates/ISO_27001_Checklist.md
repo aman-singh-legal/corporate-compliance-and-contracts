@@ -1,5 +1,4 @@
 #  ISO 27001:2022 – Information Security Management System (ISMS) Checklist
-
 **Purpose:**  
 ISO 27001 provides a framework for managing information security risks, protecting confidentiality, integrity, and availability of information assets through systematic risk management and controls.
 
