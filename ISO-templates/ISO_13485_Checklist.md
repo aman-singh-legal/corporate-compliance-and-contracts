@@ -21,3 +21,4 @@ ISO 13485 specifies requirements for a QMS applicable to the design, production,
 | 8.3 | Nonconforming Product | Identify and control defective devices. |  |  |
 | 8.4 | Analysis of Data | Evaluate data from production and complaints. |  |  |
 | 8.5 | Improvement | Implement corrective and preventive actions (CAPA). |  |  |
+---
